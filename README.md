@@ -11,9 +11,9 @@
 ## 毕设代做
 
 如果有小伙伴需要毕设代做，可以关注本人的同名公众号。<br>
-<img src="./images/gongzhonghao.jpg" width="200" height="200" />
+<img src="./images/gongzhonghao.jpg" width="200" height="200" /><br>
 也可以直接添加本人的微信。<br>
-<img src="./images/my.jpg" width="200" height="200" />
+<img src="./images/my.jpg" width="200" height="200" /><br>
 
 
 ## 技术栈
